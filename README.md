@@ -1,4 +1,7 @@
  # mTopKRP: Multi-scale Locality and Rank Preserving forRobust Feature Matching of Remote Sensing Images （TGRS2019）
+ 
+ 
+ Note: if any error exists in vlfeat, please redownload it from its homepage www.vlfeat.org/  ,  then uncompress and rename it.
 
 Please cite this paper if you use the code in this repository as part of a published research project.
  
